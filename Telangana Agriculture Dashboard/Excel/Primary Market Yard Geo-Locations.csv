@@ -1,0 +1,182 @@
+S.no,Name of the District,Name of the Primary Market Yard,Latitude,Longitude
+1,Adilabad,Boath,19.347071,78.319396
+2,Adilabad,Echoda,19.439956,78.45705
+3,Adilabad,Indervelly,19.490764,78.675474
+4,Adilabad,Adilabad,19.678072,78.527361
+5,Adilabad,Jainath,19.727644,78.642833
+6,Bhadradri Kothgudem,Dammapeta,17.2673509,81.0052892
+7,Bhadradri Kothgudem,Kothagudem  ,17.53987,80.62645
+8,Bhadradri Kothgudem,Yellandu,17.58667,80.33019
+9,Bhadradri Kothgudem,Burgampahad,17.64656,80.86279
+10,Bhadradri Kothgudem,Bhadrachalam,17.67159,80.895029
+11,Bhadradri Kothgudem,Nugurcherla,18.064671,80.832917
+12,Hyderabad,Miralam Mandi Maket,17.365708,78.478679
+13,Hyderabad,Gaddiannaram,17.368917,78.536397
+14,Hyderabad,"Sri Krupa Market, Malakpet (MMC)",17.370458,78.504033
+15,Hyderabad,Madannapet Market,17.968365,79.887082
+16,Hyderabad,Bowenpally,17.47,78.49527778
+17,Jagtial,Dharmapuri,12.106527,78.136141
+18,Jagtial,Ibrahimpatnam,17.192065,78.646635
+19,Jagtial,Mallial,18.699542,78.965465
+20,Jagtial,Pegadapally ,18.73858,77.888175
+21,Jagtial,Kathalapur,18.749495,78.686673
+22,Jagtial,Gollapally,18.787192,79.046958
+23,Jagtial,Jagtial,18.790894,78.911851
+24,Jagtial,Medipally,18.799971,78.818487
+25,Jagtial,Korutla,18.827954,78.699034
+26,Jagtial,Velgatoor ,18.843315,79.174433
+27,Jagtial,Metpally,18.849233,78.626158
+28,Jagtial,Raikal ,18.905013,78.812779
+29,Jagtial,Mallapur,18.965093,78.712939
+30,Jangaon,Kodakandla,17.527083,79.506046
+31,Jangaon,Jangaon,17.73012,79.15741
+32,Jangaon,"Ghanpur(Stn.)",17.84476,79.3753
+33,Jayashankar Bhoopalalpally,Mulugu,18.19151,79.92227
+34,Jayashankar Bhoopalalpally,Kataram ,18.621175,79.92074
+35,Jogulamba Gadwal,Alampur,155505.06,780117.27
+36,Jogulamba Gadwal,Gadwal,161345.55,774815.79
+37,Kamareddy,Kamareddy,18.325,78.341
+38,Kamareddy,Gandhari,"18.113","78.131"
+39,Kamareddy,Bhiknoor,"18.187","78.398"
+40,Kamareddy,Yellareddy,"18.188","78.022"
+41,Kamareddy,Birkur,"18.281","77.482"
+42,Kamareddy,Pitlam,"18.299","77.824"
+43,Kamareddy,Banswada,"18.377","77.878"
+44,Kamareddy,Bichkunda,"18.400","77.699"
+45,Kamareddy,Sadashivnagar,"18.410","78.261"
+46,Kamareddy,Madnoor,"18.509","77.620"
+47,Karimnagar ,Huzurabad ,18.201894,79.396708
+48,Karimnagar ,Jammikunta ,18.304235,79.469334
+49,Karimnagar ,Mankondur ,18.395849,79.193016
+50,Karimnagar ,Karimnagar ,18.445639,79.136993
+51,Karimnagar ,Gopalraopet ,18.556024,79.050381
+52,Karimnagar ,Gangadhara,18.57766,79.00994
+53,Karimnagar ,Choppadandi,18.58917,79.169044
+54,Khammam,Madhira,16.914803,80.366762
+55,Khammam,Nelakondapally,17.1009,80.050698
+56,Khammam,Wyra,17.183629,80.357705
+57,Khammam,Kallur,17.19929,80.561745
+58,Khammam,Sattupalli,17.20681,80.807153
+59,Khammam,Khammam,17.238005,80.133687
+60,Khammam,Enkoor,17.335683,80.446331
+61,Komrambheem Asifabad,Kaghaznagar,19.342006,79.490392
+62,Komrambheem Asifabad,Asifabad,19.3661,79.288028
+63,Komrambheem Asifabad,Jainoor,19.375382,78.905981
+64,Mahabubabad,Thorrur,79.680802,17.580051
+65,Mahabubabad,Kesamudram,79.890365,17.688847
+66,Mahabubabad,Mahabubabad,80.0099872,17.5931583
+67,Mahabubnagar,Makthal,16.507281,77.508833
+68,Mahabubnagar,Devarakadra,16.62367,77.838382
+69,Mahabubnagar,Narayanpet,16.7357,77.506849
+70,Mahabubnagar,Badepally,16.753541,78.146049
+71,Mahabubnagar,Mahabubnagar,16.755381,77.990358
+72,Mahabubnagar,Nawabpet,16.894315,78.03004
+73,Mahabubnagar,Kosgi,16.987985,77.711189
+74,Mancherial,Chennur,18.854447,79.790392
+75,Mancherial,Mancherial,18.865184,79.445838
+76,Mancherial,Luxettipet,18.893957,79.205891
+77,Mancherial,Bellampally,19.086752,79.476486
+78,Mancherial,Jannaram,19.114551,78.992628
+79,Medak,Narsapur,17.74828,78.2879
+80,Medak,Chegunta,17.97959,78.4559
+81,Medak,Papannapet,18.027179,78.071594
+82,Medak,Medak,18.039219,78.2582894
+83,Medak,Ramayampet,18.10438,78.43485
+84,Medchal,Medchal,17.59605556,78.49583333
+85,Nagarkurnool,Achampet,16.403224,78.635664
+86,Nagarkurnool,Nagarkurnool,16.489689,78.310338
+87,Nagarkurnool,Kalwakurthy,16.66929,78.49488
+88,Nagarkurnool,Kollapur,16.705515,74.265616
+89,Nalgonda,Devarakonda,16.68698,78.914941
+90,Nalgonda,Haliya,16.780863,79.311546
+91,Nalgonda,Nidmanoor,16.820323,79.362476
+92,Nalgonda,Miryalgluda,16.865727,79.619033
+93,Nalgonda,Venkateswara nagar,16.972998,78.733324
+94,Nalgonda,Chandur,16.979755,79.064088
+95,Nalgonda,Nalgoda,17.06457,79.265835
+96,Nalgonda,Nakrekal,17.171986,79.422354
+97,Nalgonda,Chityal,17.233005,79.123465
+98,Nirmal,Khanapur,19.048357,78.644097
+99,Nirmal,Bhainsa,19.108784,77.961854
+100,Nirmal,Nirmal,19.118855,78.337731
+101,Nirmal,Sarangapur,19.212342,78.255529
+102,Nirmal,Kubeer,19.265996,77.94422
+103,Nizambad,Varni,18.31584,77.53163
+104,Nizambad,Bodhan,18.3852,77.5308
+105,Nizambad,Nizamabad,18.40547606,78.53124875
+106,Nizambad,Kotagiri,18.564964,77.814751
+107,Nizambad,Armoor,18.787399,78.289634
+108,Nizambad,Velpoor,18.800264,78.36315
+109,Nizambad,Kammarpally,18.837424,78.524218
+110,Peddapally,Srirampur,18.47829,79.53313
+111,Peddapally,Sultanabad,18.517307,79.319642
+112,Peddapally,Peddapally,18.61353,79.381
+113,Peddapally,Julapally,18.63089,79.24854
+114,Peddapally,Manthani,18.64488,79.66422
+115,Peddapally,Dharmaram,18.73144,79.19241
+116,Rajanna Siricilla,Pothgal,18.28957,78.708115
+117,Rajanna Siricilla,Ellanthakunta,18.301008,78.955027
+118,Rajanna Siricilla,Gambhiraopeta ,18.306128,78.576789
+119,Rajanna Siricilla,Racharla Boppapur,18.383671,78.634531
+120,Rajanna Siricilla,Siricilla,18.383749,78.796912
+121,Rajanna Siricilla,Vemulawada     ,18.475816,78.859253
+122,Rajanna Siricilla,Rudrangi,18.625947,78.691104
+123,Rangareddy,Sardarnagar,15.88899,80.7931336
+124,Rangareddy,Chevella,17.3123703,78.138541
+125,Rangareddy,Amangal,16.84597222,78.53027778
+126,Rangareddy,Ibrahimpatnam,17.189,78.647386
+127,Rangareddy,Shadanagar,17.04172222,78.20166667
+128,Rangareddy,Maheshwaram,17.20052778,78.47555556
+129,Rangareddy,Shankarpally,17.45188889,78.13277778
+130,Rangareddy,Narsingi,17.45963889,78.42
+131,Sangareddy,Patancheru,17.527553,78.267419
+132,Sangareddy,Sangareddy,17.617576,78.07997
+133,Sangareddy,Sadashivpet,17.620435,77.958504
+134,Sangareddy,Zaheerabad,17.678321,77.611546
+135,Sangareddy,Jogipet,17.830686,78.0724833
+136,Sangareddy,Raikode,17.84157168,77.74602862
+137,Sangareddy,Vatpally,17.907646,77.88093
+138,Sangareddy,Narayankhed,18.050349,77.814827
+139,Siddipet,Vantimamidi,17.707235,78.613447
+140,Siddipet,Cherial,17.79235,79.04838
+141,Siddipet,Gajwel,17.847981,78.671378
+142,Siddipet,Kondapak,17.980723,78.868612
+143,Siddipet,Doulthabad ,17.990231,78.567565
+144,Siddipet,Thoguta,18.00849,78.72019
+145,Siddipet,Mirudoddi,18.068542,78.673526
+146,Siddipet,Nangnoor,18.07463894,79.02729489
+147,Siddipet,Siddipet,18.121352,78.871851
+148,Siddipet,Husnabad,18.127191,79.216473
+149,Siddipet,Koheda,18.1283361,79.101284
+150,Siddipet,Chinnakodur,18.1595824,78.8991185
+151,Siddipet,Dubbak,18.180718,78.671841
+152,Siddipet,Bejjanki,18.251008,79.013465
+153,Suryapet,Neraducherla,16.52508,79.41146
+154,Suryapet,Huzurnagar ,16.904924,79.870571
+155,Suryapet,Suryapet,17.137618,79.640225
+156,Suryapet,Kodad,79.956793,16.997929
+157,Vikarabad,Basheerabad,17.2169065,77.4257319
+158,Vikarabad,Tandur,17.259646,77.584847
+159,Vikarabad,Dharur,17.316397,77.770117
+160,Vikarabad,Kotipally,17.33643,77.904846
+161,Vikarabad,Kulkacherla,17.02174,77.869191
+162,Vikarabad,Parigi,17.176,77.8767
+163,Vikarabad,,17.25858333,77.58583333
+164,Vikarabad,Vikarabad,17.34058333,77.90583333
+165,Vikarabad,Marpally,17.54008333,77.7655555
+166,Wanaparthy,Pebbair,16.206104,77.990399
+167,Wanaparthy,Wanaparthy Town,16.360095,78.059636
+168,Wanaparthy,Wanaparthy Road,16.382969,77.890369
+169,Wanaparthy,Atmakur,16.383034,77.890293
+170,Warangal (Rural),Wardhannapet,17.79642,79.59505
+171,Warangal (Rural),Nekkonda,17.80041,79.80612
+172,Warangal (Rural),Narsampet,17.92011,79.89688
+173,Warangal (Rural),Athmakur,18.07184,79.71364
+174,Warangal (Rural),Parkal,18.18633,79.70798
+175,Warangal (Urban),Warangal,17.992563,79.633368
+176,Yadadri Bhuvanagiri,Choutuppal,17.15146,78.53328
+177,Yadadri Bhuvanagiri,Valigonda,17.22508,79.01147
+178,Yadadri Bhuvanagiri,Mothkur,17.27262,79.15297
+179,Yadadri Bhuvanagiri,Old Market Yard -   Gunj Bhongir,17.31131,78.53349
+180,Yadadri Bhuvanagiri,New Main Yard - Bhongir,17.3118,78.52443
+181,Yadadri Bhuvanagiri,Alair,17.38399,79.0313
